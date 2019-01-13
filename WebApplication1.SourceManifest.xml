@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Builds\Test\TestBuildProject\WebApplication1\bin\Any CPU\Release\net471\publish\" />
+</sitemanifest>
